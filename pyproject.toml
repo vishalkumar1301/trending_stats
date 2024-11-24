@@ -1,0 +1,20 @@
+[project]
+name = "trending_stats"
+version = "0.1.0"
+description = "trending-stats using crewAI"
+authors = [{ name = "Your Name", email = "you@example.com" }]
+requires-python = ">=3.10,<=3.13"
+dependencies = [
+    "crewai[tools]>=0.80.0,<1.0.0"
+]
+
+[project.scripts]
+trending_stats = "trending_stats.main:run"
+run_crew = "trending_stats.main:run"
+train = "trending_stats.main:train"
+replay = "trending_stats.main:replay"
+test = "trending_stats.main:test"
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"

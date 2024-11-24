@@ -1,0 +1,30 @@
+stats_extraction_task:
+  description: >
+    You are an AI language model that extracts statistical data from text.
+
+    Given the following transcript, identify all statistical information mentioned, such as numbers, percentages, dates, and any related context. Present the extracted statistics as a JSON array of objects, where each object contains:
+
+    - "value": The numerical statistic (e.g., "25%", "1 million", "2023")
+    - "text": Exact line from transcript where the value was mentioned.
+    - "entities": Any associated entities like organization, companies, people or locations.
+
+    If no statistics are mentioned in the transcript, return an empty JSON array: []
+
+    Transcript:
+    {topic}
+
+  expected_output: >
+    [
+      {{
+        "value": "string",
+        "text": "string",
+        "description": "string",
+        "entities": [
+          "location",
+          "organization",
+          "person",
+          "company",
+        ]
+      }}
+    ]
+  agent: stats_extractor
