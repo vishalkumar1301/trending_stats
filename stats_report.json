@@ -1,7 +1,228 @@
 {
-  "Action": "Ask",
-  "actionLinkKwargs": {
-    "channel_name": "WealthOn"
-  },
-  "FinalAnswer": "For financial resilience and investment insights, I recommend visiting wealth.com for a complimentary no-obligation portfolio review with one of their registered investment advisers."
+  "statistics": [
+    {
+      "value": "six years",
+      "text": "I think we've got six years left to make as much money as we can before we don't understand how the economy works anymore",
+      "description": "Estimated timeframe before significant economic shifts due to technological advancements.",
+      "entities": []
+    },
+    {
+      "value": "three trillion",
+      "text": "it's a three trillion dollar industry",
+      "description": "Current market valuation of the crypto industry.",
+      "entities": [
+        "crypto industry"
+      ]
+    },
+    {
+      "value": "100 trillion",
+      "text": "we get to 100 trillion by 20134",
+      "description": "Projected market valuation of the crypto industry by 2034.",
+      "entities": [
+        "crypto industry"
+      ]
+    },
+    {
+      "value": "3%",
+      "text": "we're 3% of the way there",
+      "description": "Percentage of the projected 100 trillion market cap already achieved.",
+      "entities": [
+        "crypto industry"
+      ]
+    },
+    {
+      "value": "92,000",
+      "text": "I'm talking to you where Bitcoin is at 92,000",
+      "description": "Bitcoin's price at the time of the conversation.",
+      "entities": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "value": "68,000",
+      "text": "that did buy Bitcoin at 68 8,000",
+      "description": "Price at which Bitcoin was purchased.",
+      "entities": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "value": "17,000",
+      "text": "rode it down to 17,000",
+      "description": "Low point of Bitcoin's price.",
+      "entities": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "value": "October of 2020",
+      "text": "I've been a consistent buyer every month of Bitcoin since October of 2020",
+      "description": "Start date of consistent Bitcoin purchases.",
+      "entities": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "value": "68,000",
+      "text": "as 68,000 prints",
+      "description": "Bitcoin price at a point of higher confidence in buying.",
+      "entities": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "value": "177,000",
+      "text": "I was less confident at 177,000",
+      "description": "Bitcoin price at a point of lower confidence in buying.",
+      "entities": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "value": "three to six months",
+      "text": "Over the next three to six months",
+      "description": "Short-term time horizon for Bitcoin price prediction.",
+      "entities": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "value": "five years",
+      "text": "what happens to bitcoin over the next five years",
+      "description": "Long-term time horizon for Bitcoin price prediction.",
+      "entities": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "value": "100",
+      "text": "Bitcoin easily gets to 100 this year",
+      "description": "Projected Bitcoin price by year-end.",
+      "entities": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "value": "150 plus",
+      "text": "probably is you know 150 plus by March before it corrects again",
+      "description": "Projected Bitcoin price by March.",
+      "entities": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "value": "30%",
+      "text": "30% correction",
+      "description": "Magnitude of a predicted Bitcoin price correction.",
+      "entities": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "value": "150",
+      "text": "worst Cas is 150",
+      "description": "Worst-case scenario price target for Bitcoin.",
+      "entities": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "value": "250",
+      "text": "my base case is 250",
+      "description": "Base-case scenario price target for Bitcoin.",
+      "entities": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "value": "450",
+      "text": "it could go as high as 450",
+      "description": "Best-case scenario price target for Bitcoin.",
+      "entities": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "value": "400",
+      "text": "salana finishes this year closer to 400 than it is to 200",
+      "description": "Projected Solana price by year-end.",
+      "entities": [
+        "Solana"
+      ]
+    },
+    {
+      "value": "200",
+      "text": "closer to 400 than it is to 200",
+      "description": "Lower bound of Solana price projection.",
+      "entities": [
+        "Solana"
+      ]
+    },
+    {
+      "value": "350",
+      "text": "maybe 350",
+      "description": "Possible Solana price mentioned in passing.",
+      "entities": [
+        "Solana"
+      ]
+    },
+    {
+      "value": "1250",
+      "text": "get to over over a th000 12 1250 something like that",
+      "description": "High-end projection for Solana price.",
+      "entities": [
+        "Solana"
+      ]
+    },
+    {
+      "value": "2020",
+      "text": "50% decline uh rise in house prices everywhere in 2020 2021",
+      "description": "Year with significant house price changes.",
+      "entities": []
+    },
+    {
+      "value": "2021",
+      "text": "50% decline uh rise in house prices everywhere in 2020 2021",
+      "description": "Year with significant house price changes.",
+      "entities": []
+    },
+    {
+      "value": "November of 2021",
+      "text": "November of 2021",
+      "description": "Specific month and year mentioned in the context of Bitcoin price.",
+      "entities": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "value": "28",
+      "text": "the average age is 28",
+      "description": "Average age in India.",
+      "entities": [
+        "India"
+      ]
+    },
+    {
+      "value": "50",
+      "text": "it's actually been below 50",
+      "description": "ISM survey value indicating economic contraction.",
+      "entities": [
+        "ISM survey"
+      ]
+    },
+    {
+      "value": "three months",
+      "text": "every three months there like a groundbreaking set of new models",
+      "description": "Frequency of groundbreaking AI model releases.",
+      "entities": [
+        "AI"
+      ]
+    },
+    {
+      "value": "six years",
+      "text": "I think we've got six years left to make as much money as we can",
+      "description": "Estimated timeframe for significant investment opportunities.",
+      "entities": []
+    }
+  ]
 }

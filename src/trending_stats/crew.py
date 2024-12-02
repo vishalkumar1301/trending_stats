@@ -1,11 +1,19 @@
 from crewai import Agent, Crew, Process, Task, LLM
 from crewai.project import CrewBase, agent, crew, task
 
-# Uncomment the following line to use an example of a custom tool
-# from trending_stats.tools.custom_tool import MyCustomTool
+from pydantic import BaseModel, Field
 
-# Check our tools documentations for more information on how to use them
-# from crewai_tools import SerperDevTool
+
+class Statistic(BaseModel):
+    value: str = Field(..., description="Value of the statistic.")
+    text: str = Field(..., description="Text of the statistic.")
+    description: str = Field(..., description="Description of the statistic.")
+    entities: list[str] = Field(..., description="Entities mentioned in the statistic.")
+
+
+class ListOfStatistics(BaseModel):
+    statistics: list[Statistic] = Field(..., description="List of statistics.")
+
 
 @CrewBase
 class TrendingStats():
@@ -18,15 +26,13 @@ class TrendingStats():
 	def stats_extractor(self) -> Agent:
 		return Agent(
 			config=self.agents_config['stats_extractor'],
-			llm=LLM(model="ollama/phi3.5", base_url='http://localhost:11434'),
-			verbose=True
 		)
 
 	@task
 	def stats_extraction_task(self) -> Task:
 		return Task(
 			config=self.tasks_config['stats_extraction_task'],
-			verbose=True,
+			output_json=ListOfStatistics,
 			output_file='stats_report.json'
 		)
 
