@@ -5,7 +5,6 @@ from pydantic import BaseModel, Field
 
 
 class Statistic(BaseModel):
-    value: str = Field(..., description="Value of the statistic.")
     text: str = Field(..., description="Text of the statistic.")
     description: str = Field(..., description="Description of the statistic.")
     entities: list[str] = Field(..., description="Entities mentioned in the statistic.")
@@ -26,6 +25,7 @@ class TrendingStats():
 	def stats_extractor(self) -> Agent:
 		return Agent(
 			config=self.agents_config['stats_extractor'],
+			allow_delegation=True,
 		)
 
 	@task

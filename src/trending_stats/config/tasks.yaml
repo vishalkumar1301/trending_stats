@@ -1,11 +1,9 @@
 stats_extraction_task:
   description: >
-    Your task is to extract statistical data from text.
-
-    Given the following transcript, identify all statistical information mentioned, such as numbers, percentages, dates, and any related context. Present the extracted statistics as a JSON array of objects, where each object contains:
-
-    - "value": The numerical statistic (e.g., "25%", "1 million", "2023")
-    - "text": Exact line from transcript where the value was mentioned.
+    Your task is to find out and make a list of the general statistics that are being talked about in the transcript.
+    With General Statistics, I mean some kind of graph or chart or some kind of data that is being represented in a visual way.
+    The statistics should be in the following format:
+    - "text": Exact line from transcript where the particular statistic was mentioned.
     - "description": Brief description of the statistic to provide context.
     - "entities": Any associated entities like organization, companies, people or locations.
 

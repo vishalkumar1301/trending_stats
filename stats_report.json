@@ -1,228 +1,100 @@
 {
   "statistics": [
     {
-      "value": "six years",
-      "text": "I think we've got six years left to make as much money as we can before we don't understand how the economy works anymore",
-      "description": "Estimated timeframe before significant economic shifts due to technological advancements.",
+      "text": "it's a three trillion dollar industry if we just extrapolate the trend rate of growth and the number of wallets and all of that stuff we get to 100 trillion by 2034 we're 3% of the way there",
+      "description": "This projects the crypto market's growth from a current $3 trillion to $100 trillion by 2034, implying a significant increase.",
+      "entities": [
+        "Cryptocurrency market"
+      ]
+    },
+    {
+      "text": "Bitcoin is at 92,000 you're also talking to a person that did buy Bitcoin at 68 8,000 November of 2021 rode it down to 17,000",
+      "description": "This mentions specific Bitcoin prices at different times, showing price volatility.",
+      "entities": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "text": "my general thesis is we will rally into year end we will correct at some point there's a bunch of hedge funds and raas and others who are into this who will need to take a bit of profits into year end I think we'll get a bit of a ShakeOut Global liquidity slowing down somewhat and then we should re accelerate into the end of tax season so my view is Bitcoin easily gets to 100 this year um and probably probably is you know 150 plus by March before it corrects again and then we finish the year after a larger correction with a very strong rally into the end so that's that's how I think it plays out probabilistically so when you say a correction we're at 150 it corrects back to 80 yeah maybe something like that yeah maybe less maybe you know 30% correction so back down to 100 kind of make sense to me right um and it'll feel miserable and people say has the cycle peaked and all of that noise right and then usually we end the second year after the presidential election cycle very strong and then it Peaks out sometimes",
+      "description": "This gives a price prediction for Bitcoin, outlining potential price movements throughout the year, including corrections.",
+      "entities": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "text": "if I give a range of targets as opposed to pinpointing a Target worst Cas is 150 my base case is 250 and in an obscene bull market because everybody's buying driven by a change of Regulation then it could go as high as 450",
+      "description": "This provides a range of price targets for Bitcoin based on different market scenarios.",
+      "entities": [
+        "Bitcoin"
+      ]
+    },
+    {
+      "text": "I think salana finishes this year closer to 400 than it is to 200 so I think we got this year six weeks ago maybe 350 I mean it's a higher bass so it should do better um so I expect that to happen um I'm I think again it'll follow the same kind of price path as Bitcoin but it should outperform all of the way it's been in this consolidation versus Bitcoin uh sideways consolidation the next leg should be altcoin season and salana should be the king of the major alts so I'm kind of expecting salana from here to probably get to over over a th000 12 1250 something like that",
+      "description": "This offers a price prediction for Solana, suggesting it will reach a higher price point by the end of the year.",
+      "entities": [
+        "Solana"
+      ]
+    },
+    {
+      "text": "ethereum has been a lagged I think it plays some catchup I think it outperforms Bitcoin going forwards for a bit because you know if we sit back and look at what the regulatory changes might be that is the platform upon which most of the institutions will start doing stuff it's the Microsoft decision you know every bank has Microsoft computers not Apple Computers so I think that um ethereum actually does better than most people expect going into the end of the year again same price pattern um outperforms Bitcoin salana outperforms ethereum so it's the risk curve",
+      "description": "This discusses Ethereum's potential price performance relative to Bitcoin and Solana, indicating an expectation of outperformance.",
+      "entities": [
+        "Ethereum",
+        "Microsoft",
+        "Apple"
+      ]
+    },
+    {
+      "text": "wages are rising unemployment's at an all-time low stock markets at an all-time high uh General numbers like PPI Etc manufacturing look good to me they don't look bad uh uh feds cutting rates",
+      "description": "This describes a seemingly positive economic outlook with rising wages, low unemployment, and high stock markets, despite Fed rate cuts.",
+      "entities": [
+        "Federal Reserve (Fed)"
+      ]
+    },
+    {
+      "text": "if we look at the ism survey The Institute of Supply manager survey which is the guide to the global business cycle it's actually been below 50 which means it's in sort of contraction for the longest period in history now I think so there's something going on with the economy",
+      "description": "This points to the ISM survey showing the global business cycle in contraction for an extended period, contrasting with other positive economic indicators.",
+      "entities": [
+        "Institute of Supply Management (ISM)"
+      ]
+    },
+    {
+      "text": "we've got six years left to make as much money as we can before we don't understand how the economy works anymore",
+      "description": "This expresses a belief that the economy will undergo significant changes in the next six years.",
       "entities": []
     },
     {
-      "value": "three trillion",
+      "text": "if an economy is driven by if economic Trend rate of economic growth is driven by population growth plus productivity growth and debt growth by the time you change this aging population which is slowing Trend rate of GDP down replace that with infinite robots and infinite AI we've replaced the population component same with productivity by lowering energy cost we end up with ridiculous growth",
+      "description": "This outlines a theoretical model for economic growth, suggesting a shift from population and productivity growth to AI and automation-driven growth.",
+      "entities": []
+    },
+    {
+      "text": "the amount of opportunity in finance keeps going down as guess what AI technology replaces humans in the trading flaw um and in Investment Banking across",
+      "description": "This statement forecasts a decline in opportunities within the finance industry due to AI replacing human jobs.",
+      "entities": [
+        "Finance"
+      ]
+    },
+    {
       "text": "it's a three trillion dollar industry",
-      "description": "Current market valuation of the crypto industry.",
+      "description": "States the current size of the crypto industry.",
       "entities": [
-        "crypto industry"
+        "Cryptocurrency"
       ]
     },
     {
-      "value": "100 trillion",
-      "text": "we get to 100 trillion by 20134",
-      "description": "Projected market valuation of the crypto industry by 2034.",
+      "text": "we get to 100 trillion by 2034 we're 3% of the way there",
+      "description": "Projects the crypto industry to reach 100 trillion by 2034, indicating significant potential growth.",
       "entities": [
-        "crypto industry"
+        "Cryptocurrency"
       ]
     },
     {
-      "value": "3%",
-      "text": "we're 3% of the way there",
-      "description": "Percentage of the projected 100 trillion market cap already achieved.",
-      "entities": [
-        "crypto industry"
-      ]
-    },
-    {
-      "value": "92,000",
-      "text": "I'm talking to you where Bitcoin is at 92,000",
-      "description": "Bitcoin's price at the time of the conversation.",
-      "entities": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "value": "68,000",
-      "text": "that did buy Bitcoin at 68 8,000",
-      "description": "Price at which Bitcoin was purchased.",
-      "entities": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "value": "17,000",
-      "text": "rode it down to 17,000",
-      "description": "Low point of Bitcoin's price.",
-      "entities": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "value": "October of 2020",
-      "text": "I've been a consistent buyer every month of Bitcoin since October of 2020",
-      "description": "Start date of consistent Bitcoin purchases.",
-      "entities": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "value": "68,000",
-      "text": "as 68,000 prints",
-      "description": "Bitcoin price at a point of higher confidence in buying.",
-      "entities": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "value": "177,000",
-      "text": "I was less confident at 177,000",
-      "description": "Bitcoin price at a point of lower confidence in buying.",
-      "entities": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "value": "three to six months",
-      "text": "Over the next three to six months",
-      "description": "Short-term time horizon for Bitcoin price prediction.",
-      "entities": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "value": "five years",
-      "text": "what happens to bitcoin over the next five years",
-      "description": "Long-term time horizon for Bitcoin price prediction.",
-      "entities": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "value": "100",
-      "text": "Bitcoin easily gets to 100 this year",
-      "description": "Projected Bitcoin price by year-end.",
-      "entities": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "value": "150 plus",
-      "text": "probably is you know 150 plus by March before it corrects again",
-      "description": "Projected Bitcoin price by March.",
-      "entities": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "value": "30%",
-      "text": "30% correction",
-      "description": "Magnitude of a predicted Bitcoin price correction.",
-      "entities": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "value": "150",
-      "text": "worst Cas is 150",
-      "description": "Worst-case scenario price target for Bitcoin.",
-      "entities": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "value": "250",
-      "text": "my base case is 250",
-      "description": "Base-case scenario price target for Bitcoin.",
-      "entities": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "value": "450",
-      "text": "it could go as high as 450",
-      "description": "Best-case scenario price target for Bitcoin.",
-      "entities": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "value": "400",
-      "text": "salana finishes this year closer to 400 than it is to 200",
-      "description": "Projected Solana price by year-end.",
-      "entities": [
-        "Solana"
-      ]
-    },
-    {
-      "value": "200",
-      "text": "closer to 400 than it is to 200",
-      "description": "Lower bound of Solana price projection.",
-      "entities": [
-        "Solana"
-      ]
-    },
-    {
-      "value": "350",
-      "text": "maybe 350",
-      "description": "Possible Solana price mentioned in passing.",
-      "entities": [
-        "Solana"
-      ]
-    },
-    {
-      "value": "1250",
-      "text": "get to over over a th000 12 1250 something like that",
-      "description": "High-end projection for Solana price.",
-      "entities": [
-        "Solana"
-      ]
-    },
-    {
-      "value": "2020",
-      "text": "50% decline uh rise in house prices everywhere in 2020 2021",
-      "description": "Year with significant house price changes.",
-      "entities": []
-    },
-    {
-      "value": "2021",
-      "text": "50% decline uh rise in house prices everywhere in 2020 2021",
-      "description": "Year with significant house price changes.",
-      "entities": []
-    },
-    {
-      "value": "November of 2021",
-      "text": "November of 2021",
-      "description": "Specific month and year mentioned in the context of Bitcoin price.",
-      "entities": [
-        "Bitcoin"
-      ]
-    },
-    {
-      "value": "28",
-      "text": "the average age is 28",
-      "description": "Average age in India.",
+      "text": "the average age is 28 this is like golden demographics so India over a long-term time Horizon is very good",
+      "description": "This describes India's demographics, indicating a young population and positive outlook for long-term growth.",
       "entities": [
         "India"
       ]
-    },
-    {
-      "value": "50",
-      "text": "it's actually been below 50",
-      "description": "ISM survey value indicating economic contraction.",
-      "entities": [
-        "ISM survey"
-      ]
-    },
-    {
-      "value": "three months",
-      "text": "every three months there like a groundbreaking set of new models",
-      "description": "Frequency of groundbreaking AI model releases.",
-      "entities": [
-        "AI"
-      ]
-    },
-    {
-      "value": "six years",
-      "text": "I think we've got six years left to make as much money as we can",
-      "description": "Estimated timeframe for significant investment opportunities.",
-      "entities": []
     }
   ]
 }
