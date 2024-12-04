@@ -324,7 +324,10 @@ def run():
             empowered and may your Investments flourish and if you like this content please watch this video next
         '''
     }
-    TrendingStats().crew().kickoff(inputs=inputs)
+    crew_output = TrendingStats().crew().kickoff(inputs=inputs)
+
+    if crew_output.json_dict:
+        print(f"JSON Output: {crew_output.json_dict}")
 
 
 def train():

@@ -14,3 +14,6 @@ stats_extraction_task:
 
   expected_output: A list of Statistics with some details.
   agent: stats_extractor
+
+
+# this serves my purpose for extracting the statistics from the transcript and now i can use it in my website.
